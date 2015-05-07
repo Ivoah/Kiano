@@ -2,7 +2,7 @@
 
 A port of Piano83 to KnightOS
 
-Original by Mikhail Lavrov: http://www.ticalc.org/archives/files/fileinfo/405/40505.html
+Original by Badja: http://www.ticalc.org/archives/files/fileinfo/102/10288.html
 
 ## Compiling
 
